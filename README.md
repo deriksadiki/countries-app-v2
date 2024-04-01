@@ -75,6 +75,11 @@ Expo should open a tab in your browser, where you will be able to choose whether
 
 That's it, you're good to go!
 
+## Running the tests
+```bash
+npm run test
+```
+
 ## Built With
 
 Details of the tech stack that has been used.
